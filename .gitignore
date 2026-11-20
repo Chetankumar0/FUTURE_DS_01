@@ -1,0 +1,11 @@
+# raw data is not committed (see data/README.md)
+data/*.csv
+data/*.zip
+
+# python / jupyter
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+.venv/
+venv/
+.DS_Store
