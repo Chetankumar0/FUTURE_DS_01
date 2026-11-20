@@ -54,7 +54,7 @@ The two largest "sales" in the file (80,995 × *Paper Craft, Little Birdie* and 
 
 ## Reproduce
 ```bash
-git clone https://github.com/<your-username>/FUTURE_DS_01.git
+git clone https://github.com/Chetankumar0/FUTURE_DS_01.git
 cd FUTURE_DS_01
 pip install -r requirements.txt
 # download the dataset into data/online_retail.csv (see data/README.md)
